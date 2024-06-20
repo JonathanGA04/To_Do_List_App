@@ -13,7 +13,7 @@
         android:layout_width="237dp"
         android:layout_height="135dp"
         android:layout_centerInParent="true"
-        android:text="To Do App:Keep Task of all your task"
+        android:text="I added the pending or task you want."
         android:textColor="#2286D6"
         android:textFontWeight="1000"
         android:textSize="32dp"
